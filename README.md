@@ -65,5 +65,5 @@
 
 <!--Github streak-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmaj&" alt="Mazid Hussain" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmaj&" alt="Mazid Hussain" /></p> -->
 <!--END-->
