@@ -8,7 +8,7 @@
 
 <!--trophy-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamirAkhtar7" alt="SamirAkhtar7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmaj" alt="Md Mazid Hussain" /></a> </p>
 
 
 <!--profile views-->
