@@ -33,7 +33,8 @@
 
  -  📫 Reach me at: mdmazidkqr@gmail.com
 
- -  Portfolio :
+ -  Portfolio : https://mdmaj.in/
+   
   
    
  
