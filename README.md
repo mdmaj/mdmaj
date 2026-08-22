@@ -4,7 +4,7 @@
 
 <!--Passionate about-->
 
-<h3 align="center">A Passionate Full-Stack Web Developer from India 🚀</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer, Python Developer from India 🚀</h3>
 
 <!--trophy-->
 
@@ -33,7 +33,7 @@
 
  -  📫 Reach me at: mdmazidkqr@gmail.com
 
- -  Portfolio : https://mdmaj.in/
+ -  Portfolio :🧑‍💻 https://mdmaj.in/
    
   
    
