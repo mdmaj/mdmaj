@@ -4,7 +4,7 @@
 
 <!--Passionate about-->
 
-<h3 align="center">A Passionate Full-Stack Web Developer, Python Developer from India 🚀</h3>
+<h3 align="center">A Passionate Full-Stack Web AI Engineer, Python Developer from India 🚀</h3>
 
 <!--trophy-->
 
